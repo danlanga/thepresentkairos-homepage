@@ -1,0 +1,19 @@
+.centered-text {
+	text-align: center;
+}
+
+.date-wrapper .column > * {
+	margin: 8px 0 8px 10px;
+}
+
+.past .date {
+	text-decoration: line-through;
+}
+
+.date-wrapper {
+	display: flex;
+}
+
+.date-wrapper .column:nth-of-type(1) {
+	margin-right: 10px;
+}
